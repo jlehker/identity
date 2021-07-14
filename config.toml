@@ -9,7 +9,9 @@ title = "Jean-Michel Lehker"
   firstname = "Jean-Michel"
   lastname = "Lehker"
   title = "Software Engineer"
-  bio = """Full-stack developer with over a decade of industry experience in software development.
+  bio = """Full-stack developer with over a decade of industry experience in software engineering.
+           Well-versed in Python development and writing code to create systems that are reliable and maintainable.
+           Skilled leader and confident communicator who has the proven ability to motivate, educate, and manage a team of engineers to develop software effectively.
   """
 
 ## Contacts Configurations
